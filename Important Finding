@@ -1,0 +1,7 @@
+
+# if user has "Full" or "read/write" permission on record then only he/she can add notes and attachment.
+
+# user can delete a record only if he/she has full access to record
+
+# from "manual sharing" no option to give full access
+
